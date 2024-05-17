@@ -14,8 +14,8 @@ I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my pro
 
 ## 📈 Github Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 45%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 47%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true" style="width: 50%;">
 </div>
 
 ## 🔭 Projects
