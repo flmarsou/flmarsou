@@ -13,8 +13,10 @@ I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my pro
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## 📈 Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 45%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true" style="width: 48%;">
+</div>
 
 ## 🔭 Projects
 - **[Libft](https://github.com/flmarsou/1-Libft):** Your first own library
