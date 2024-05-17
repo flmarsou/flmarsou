@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Flo 👋
 
-<!--
-**flmarsou/flmarsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🦊 About Me
+I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my projects here both as a backup and if anyone needs it.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+<div align="left">
+  <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/> </a>
+  <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cpp.svg" alt="cpp logo" width="50" height="50"/> </a>
+  <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cs.svg" alt="cs logo" width="50" height="50"/> </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+## 📈 Github Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true)
+
+## 🔭 Projects
+- **[Libft](https://github.com/flmarsou/1-Libft):** Your first own library
+- **[ft_printf](https://github.com/flmarsou/2.1-ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
+- **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Reading a line on a fd is way too tedious
+
+[![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
