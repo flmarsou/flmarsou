@@ -6,8 +6,6 @@ I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my pro
 ## 🛠️ Skills
 <div align="left">
   <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/> </a>
-  <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cpp.svg" alt="cpp logo" width="50" height="50"/> </a>
-  <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cs.svg" alt="cs logo" width="50" height="50"/> </a>
 </div>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
