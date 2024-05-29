@@ -18,7 +18,7 @@ I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my pro
 
 ## 🔭 Projects
 - **[Libft](https://github.com/flmarsou/1-Libft):** Your first own library
-- **[ft_printf](https://github.com/flmarsou/2.1-ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
+- **[Printf](https://github.com/flmarsou/2.1-ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
 - **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Reading a line on a fd is way too tedious
 - **[Push Swap](https://github.com/flmarsou/3.1-push_swap):** Because Swap_push isn't as natural
 
