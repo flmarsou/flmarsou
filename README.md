@@ -2,6 +2,7 @@
 
 ## 🦊 About Me
 I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my projects here both as a backup and if anyone needs it.
+Don't forget to give my repositories a star if you use 'em. I'm watching you.
 
 ## 🛠️ Skills
 <div align="left">
