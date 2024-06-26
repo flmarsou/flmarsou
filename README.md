@@ -22,5 +22,6 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[Printf](https://github.com/flmarsou/2.1-ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
 - **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Reading a line on a fd is way too tedious
 - **[Push Swap](https://github.com/flmarsou/3.1-push_swap):** Because Swap_push isn't as natural
+- **[Minitalk](https://github.com/flmarsou/3.2-minitalk):** Better than any SNS
 
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
