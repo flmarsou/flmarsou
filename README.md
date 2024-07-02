@@ -6,15 +6,16 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 
 ## 🛠️ Skills
 <div align="left">
-  <img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/> </a>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/> </a>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/godot.svg" alt="c logo" width="50" height="50"/> </a>
 </div>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## 📈 Github Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true" style="width: 51%;">
+	<img src="https://github-readme-stats.vercel.app/api?username=flmarsou&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true" style="width: 51%;">
 </div>
 
 ## 🔭 Projects
