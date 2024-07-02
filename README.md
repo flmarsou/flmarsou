@@ -4,7 +4,7 @@
 I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my projects here both as a backup and if anyone needs it. <br/>
 Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositories) a star if you use 'em. I'm watching you.
 
-## 🛠️ Skills
+## 🛠️ Languages & Tools
 <div align="left">
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/> </a>
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/godot.svg" alt="c logo" width="50" height="50"/> </a>
