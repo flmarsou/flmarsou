@@ -24,5 +24,6 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Reading a line on a fd is way too tedious
 - **[Push Swap](https://github.com/flmarsou/3.1-push_swap):** Because Swap Push isn't as natural
 - **[Minitalk](https://github.com/flmarsou/3.2-minitalk):** Better than any SNS
+- **[So Long](https://github.com/flmarsou/3.3-so_long):** And thanks for all the fish
 
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
