@@ -19,11 +19,11 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 </div>
 
 ## 🔭 Projects
-- **[Libft](https://github.com/flmarsou/1-Libft):** Your first own library
-- **[Printf](https://github.com/flmarsou/2.1-ft_printf):** Because ft_putnbr() and ft_putstr() aren't enough
-- **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Reading a line on a fd is way too tedious
-- **[Push Swap](https://github.com/flmarsou/3.1-push_swap):** Because Swap Push isn't as natural
-- **[Minitalk](https://github.com/flmarsou/3.2-minitalk):** Better than any SNS
-- **[So Long](https://github.com/flmarsou/3.3-so_long):** And thanks for all the fish
+- **[Libft](https://github.com/flmarsou/1-Libft):** A library of useful functions for later projects.
+- **[Printf](https://github.com/flmarsou/2.1-ft_printf):** A simple mimic of the printf function.
+- **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Function that reads a new line from a file at every call.
+- **[Push Swap](https://github.com/flmarsou/3.1-push_swap):** A simple sorting algorithm.
+- **[Minitalk](https://github.com/flmarsou/3.2-minitalk):** Exchange program using UNIX signals.
+- **[So Long](https://github.com/flmarsou/3.3-so_long):** A very small 2D game.
 
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
