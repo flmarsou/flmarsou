@@ -6,8 +6,8 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 
 ## 🛠️ Languages & Tools
 <div align="left">
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/> </a>
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/godot.svg" alt="c logo" width="50" height="50"/> </a>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/godot.svg" alt="c logo" width="50" height="50"/>
 </div>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
@@ -18,7 +18,7 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=flmarsou&theme=react&hide_border=true" style="width: 51%;">
 </div>
 
-## 🔭 Projects
+## 🔭 42 Projects
 - **[Libft](https://github.com/flmarsou/1-Libft):** A library of useful functions for later projects.
 - **[Printf](https://github.com/flmarsou/2.1-ft_printf):** A simple mimic of the printf function.
 - **[GNL](https://github.com/flmarsou/2.2-get_next_line):** Function that reads a new line from a file at every call.
