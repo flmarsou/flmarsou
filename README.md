@@ -21,10 +21,10 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 ## 🔭 42 Projects
 - **[Libft](https://github.com/flmarsou/libft):** A library of useful functions for later projects.
 - **[Printf](https://github.com/flmarsou/ft_printf):** Mimic of the printf function.
-- **[GNL](https://github.com/flmarsou/get_next_line):** Function that reads a new line from a file at every call.
+- **[GNL](https://github.com/flmarsou/get_next_line):** Function that returns a new line from a fd at every call.
 - **[Push Swap](https://github.com/flmarsou/push_swap):** Simple sorting algorithm.
 - **[Minitalk](https://github.com/flmarsou/minitalk):** Exchange program using UNIX signals.
-- **[So Long](https://github.com/flmarsou/so_long):** A very small 2D game.
-- **[Philosophers](https://github.com/flmarsou/philosophers):** Program using threads and mutexes.
+- **[So Long](https://github.com/flmarsou/so_long):** A very small 2D game using the MiniLibX.
+- **[Philosophers](https://github.com/flmarsou/philosophers):** Text program using threads and mutexes.
 
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
