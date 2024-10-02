@@ -27,4 +27,7 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[So Long](https://github.com/flmarsou/so_long):** A very small 2D game using the MiniLibX.
 - **[Philosophers](https://github.com/flmarsou/philosophers):** Text program using threads and mutexes.
 
+## 🌌 Personal Projects
+- **[Ftop](https://github.com/flmarsou/ftop):** My own table of processes for Linux.
+
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
