@@ -26,6 +26,8 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[Minitalk](https://github.com/flmarsou/minitalk):** Exchange program using UNIX signals.
 - **[So Long](https://github.com/flmarsou/so_long):** A very small 2D game using the MiniLibX.
 - **[Philosophers](https://github.com/flmarsou/philosophers):** Text program using threads and mutexes.
+- **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell.
+
 
 ## 🌌 Personal Projects
 - **[Ftop](https://github.com/flmarsou/ftop):** My own table of processes for Linux.
