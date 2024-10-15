@@ -1,0 +1,29 @@
+{
+    "editor.fontFamily": "Iosevka, monospace",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "trailing",
+    "editor.insertSpaces": false,
+
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+
+    "window.customTitleBarVisibility": "never",
+
+    "terminal.integrated.fontFamily": "Iosevka, monospace",
+    "terminal.integrated.fontWeight": "bold",
+
+    "files.autoSave": "onFocusChange",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+
+    "search.exclude": {
+        "**/.vscode":true,
+        "**/.git":true,
+        "obj":true
+    },
+
+    "telemetry.telemetryLevel": "off",
+    "explorer.confirmDelete": false
+}
