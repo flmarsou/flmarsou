@@ -27,9 +27,11 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[So Long](https://github.com/flmarsou/so_long):** A very small 2D game using the MiniLibX.
 - **[Philosophers](https://github.com/flmarsou/philosophers):** Text program using threads and mutexes.
 - **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell.
+- **[Cub3D](https://github.com/flmarsou/cub3d):** A very small ray casting game using the MiniLibX.
 
 
 ## 🌌 Personal Projects
 - **[Ftop](https://github.com/flmarsou/ftop):** My own table of processes for Linux.
+- **[SomeTechMod](https://github.com/flmarsou/SomeTechMod):** A Minecraft tech-oriented Mod using Fabric.
 
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
