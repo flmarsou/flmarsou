@@ -28,6 +28,7 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[Philosophers](https://github.com/flmarsou/philosophers):** Text program using threads and mutexes.
 - **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell.
 - **[Cub3D](https://github.com/flmarsou/cub3d):** A very small ray casting game using the MiniLibX.
+- **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of 42 School.
 
 
 ## 🌌 Personal Projects
