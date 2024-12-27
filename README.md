@@ -32,7 +32,7 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 
 
 ## 🌌 Personal Projects
-- **[Ftop](https://github.com/flmarsou/ftop):** My own table of processes for Linux.
+- **[FClock](https://github.com/flmarsou/fclock):** Terminal Clock
 - **[SomeTechMod](https://github.com/flmarsou/SomeTechMod):** A Minecraft tech-oriented Mod using Fabric.
 
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
