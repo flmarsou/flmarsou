@@ -30,9 +30,4 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[Cub3D](https://github.com/flmarsou/cub3d):** A very small ray casting game using the MiniLibX.
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of 42 School.
 
-
-## 🌌 Personal Projects
-- **[FClock](https://github.com/flmarsou/fclock):** Terminal Clock
-- **[SomeTechMod](https://github.com/flmarsou/SomeTechMod):** A Minecraft tech-oriented Mod using Fabric.
-
 [![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
