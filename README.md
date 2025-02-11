@@ -29,5 +29,3 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell.
 - **[Cub3D](https://github.com/flmarsou/cub3d):** A very small ray casting game using the MiniLibX.
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of 42 School.
-
-[![](https://visitcount.itsvg.in/api?id=flmarsou&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
