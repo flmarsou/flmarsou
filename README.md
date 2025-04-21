@@ -31,4 +31,4 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of 42 School.
 
 ## 🌌 Personal Projects
-- **[Libft Tester](https://github.com/flmarsou/libft_tester):** A tester that checks libft functions for outputs, segfaults, and memory leaks.
+- **[OpenGL Sandbox](https://github.com/flmarsou/opengl_sandbox)**
