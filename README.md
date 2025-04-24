@@ -6,8 +6,9 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 
 ## 🛠️ Languages & Tools
 <div align="left">
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/>
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cpp.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/c.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="c logo" width="50" height="50"/>
 </div>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
