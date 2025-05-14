@@ -23,15 +23,15 @@ Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositor
 </div>
 
 ## 🔭 42 Projects
-- **[Libft](https://github.com/flmarsou/libft):** A library of useful functions for later projects.
-- **[Printf](https://github.com/flmarsou/ft_printf):** Mimic of the printf function.
-- **[GNL](https://github.com/flmarsou/get_next_line):** Function that returns a new line from a fd at every call.
+- **[Libft](https://github.com/flmarsou/libft):** Library of useful functions for later projects.
+- **[Printf](https://github.com/flmarsou/ft_printf):** Simple mimic of the printf function.
+- **[GNL](https://github.com/flmarsou/get_next_line):** Function that reads a new line from a file at every call.
 - **[Push Swap](https://github.com/flmarsou/push_swap):** Simple sorting algorithm.
 - **[Minitalk](https://github.com/flmarsou/minitalk):** Exchange program using UNIX signals.
-- **[So Long](https://github.com/flmarsou/so_long):** A very small 2D game using the MiniLibX.
-- **[Philosophers](https://github.com/flmarsou/philosophers):** Text program using threads and mutexes.
-- **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell.
-- **[Cub3D](https://github.com/flmarsou/cub3d):** A very small ray casting game using the MiniLibX.
+- **[So Long](https://github.com/flmarsou/so_long):** 2D game using the MiniLibX.
+- **[Philosophers](https://github.com/flmarsou/philosophers):** Simulation using threads and mutexes.
+- **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell, made with [Andres](https://github.com/Manioker).
+- **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting game using the MiniLibX, made with [Rémy](https://github.com/remyd06).
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of 42 School.
 
 ## 🌌 Personal Projects
