@@ -1,18 +1,37 @@
 # Hi there, I'm Flo 👋
 
 ## 🦊 About Me
-I'm a student at [42 School](https://42.fr/en/homepage/), I'll be posting my projects here both as a backup and if anyone needs it. <br/>
-Don't forget to give my [repositories](https://github.com/flmarsou?tab=repositories) a star if you use 'em. I'm watching you.
+I'm a student at **[42 School](https://42.fr/en/homepage/)**, I use this space to back up my work and share projects that might come in handy for anyone.
+<br>
+<br>
+If you find something useful, don’t hesitate to ⭐ my **[repositories](https://github.com/flmarsou?tab=repositories)**.
 
-## 🛠️ Languages & Tools
+## 🛠️ Tools
 <div align="left">
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/c.svg" alt="c logo" width="50" height="50"/>
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="c logo" width="50" height="50"/>
+	&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/git.svg" alt="git logo" width="50" height="50">
+	&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/vscode.svg" alt="vscode logo" width="50" height="50">
+	&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/github_desktop.svg" alt="github desktop logo" width="50" height="50">
 </div>
+<br>
 <div align="left">
 	&#8202;
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="40" height="40"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/opengl.svg" alt="opengl logo" height="50" style="vertical-align: middle;">
 </div>
+
+## 📜 Languages
+<div align="left">
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/c.svg" alt="c logo" width="70" height="70">
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="cpp logo" width="70" height="70">
+</div>
+<div align="left">
+	&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="50" height="50">
+</div>
+
+<br>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
 
