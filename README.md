@@ -47,13 +47,13 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[GNL](https://github.com/flmarsou/get_next_line):** Function that reads a new line from a file at every call.
 - **[Push Swap](https://github.com/flmarsou/push_swap):** Simple sorting algorithm.
 - **[Minitalk](https://github.com/flmarsou/minitalk):** Exchange program using UNIX signals.
-- **[So Long](https://github.com/flmarsou/so_long):** 2D game using the MiniLibX.
+- **[So Long](https://github.com/flmarsou/so_long):** 2D game using the **MiniLibX**.
 - **[Philosophers](https://github.com/flmarsou/philosophers):** Simulation using threads and mutexes.
 - **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell, made with [Andres](https://github.com/Manioker).
-- **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting game using the MiniLibX, made with [Rémy](https://github.com/remyd06).
-- **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of 42 School.
-- **[IRC](https://github.com/flmarsou/irc):** Internet Relay Chat Server
+- **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting game using the **MiniLibX**, made with [Rémy](https://github.com/remyd06).
+- **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of **42 School**.
+- **[IRC](https://github.com/flmarsou/irc):** **I**nternet **R**elay **C**hat Server.
 
 ## 🌌 Personal Projects
-- **[Game Jam GCC-0](https://github.com/louchebem06/GCC-0):** A very simple local coop platformer game written in GDScript with Godot Engine.
-- **[OpenGL Sandbox](https://github.com/flmarsou/OpenGL_Sandbox):** A falling-sand game written in C++ with OpenGL and ImGui.
+- **[Game Jam GCC-0](https://github.com/louchebem06/GCC-0):** A very simple local coop platformer game written in **GDScript** with **Godot Engine**.
+- **[OpenGL Sandbox](https://github.com/flmarsou/OpenGL_Sandbox):** A falling-sand game written in C++ with **OpenGL** and **ImGui**.
