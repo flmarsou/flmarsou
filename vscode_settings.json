@@ -57,10 +57,17 @@
 	//   Miscellaneous                                                        //
 	// ====================================================================== //
 
+	"breadcrumbs.enabled": false,
+
 	"search.exclude": {
 		"**/.vscode":true,
 		"**/.git":true,
 		"obj":true,
 	},
-	"breadcrumbs.enabled": false,
+
+	"[csharp]": {
+	"editor.formatOnType": false,
+	"editor.formatOnSave": false,
+	"editor.codeLens": false,
+	}
 }
