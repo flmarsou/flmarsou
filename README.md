@@ -57,3 +57,4 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/louchebem06/GCC-0):** A very simple local coop platformer game written in **GDScript** with **Godot Engine**.
 - **[OpenGL Sandbox](https://github.com/flmarsou/OpenGL_Sandbox):** A falling-sand game written in C++ with **OpenGL** and **ImGui**.
+- **[Silk Roguelike](https://github.com/flmarsou/Silk_Roguelike):** A roguelike game written in C# with **Silk.NET** and **OpenGL**.
