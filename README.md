@@ -25,6 +25,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 <div align="left">
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/c.svg" alt="c logo" width="70" height="70">
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="cpp logo" width="70" height="70">
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cs.svg" alt="cs logo" width="70" height="70">
 </div>
 <div align="left">
 	&#8202;&#8202;&#8202;
