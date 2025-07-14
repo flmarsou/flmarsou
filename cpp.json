@@ -70,7 +70,7 @@
 		"prefix": "for",
 		"body":
 		[
-			"for (i32 ${1:i} = 0; ${1:i} < length; ${1:i++})",
+			"for (i32 ${1:i} = 0; ${1:i} < length; ${1:i}++)",
 			"{",
 			"\t",
 			"}"
@@ -82,7 +82,7 @@
 		"prefix": "forr",
 		"body":
 		[
-			"for (i32 ${1:i} = length - 1; ${1:i} >= 0; ${1:i--})",
+			"for (i32 ${1:i} = length - 1; ${1:i} >= 0; ${1:i}--)",
 			"{",
 			"\t",
 			"}"
@@ -114,7 +114,7 @@
 		"prefix": "throw",
 		"body":
 		[
-			"throw ${1:std::runtime_error}(\"${2:Error message}\");"
+			"throw std::runtime_error(\"${1:}\");"
 		]
 	},
 
@@ -135,7 +135,7 @@
 			"",
 			"\tprivate:",
 			"",
-			"}"
+			"};"
 		]
 	},
 
@@ -170,4 +170,3 @@
 		]
 	},
 }
-
