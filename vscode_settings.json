@@ -70,4 +70,7 @@
 	"editor.formatOnSave": false,
 	"editor.codeLens": false,
 	}
+
+	"C_Cpp.suggestSnippets": false,
+	"editor.snippetSuggestions": "top"
 }
