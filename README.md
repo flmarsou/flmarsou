@@ -34,7 +34,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 
 <br>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
 
 ## 📈 Github Stats
 <div style="display: flex; justify-content: space-between;">
