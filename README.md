@@ -54,6 +54,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting game using the **MiniLibX**, made with [Rémy](https://github.com/remyd06).
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of **42 School**.
 - **[IRC](https://github.com/flmarsou/irc):** **I**nternet **R**elay **C**hat Server.
+- **[Inception](https://github.com/flmarsou/inception):**
 
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** A very simple local coop platformer game written in **GDScript** with **Godot Engine**.
