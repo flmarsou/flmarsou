@@ -14,6 +14,8 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/vscode.svg" alt="vscode logo" width="50" height="50">
 	&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/github_desktop.svg" alt="github desktop logo" width="50" height="50">
+	&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="50" height="50">
 </div>
 <br>
 <div align="left">
@@ -27,11 +29,6 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="cpp logo" width="70" height="70">
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cs.svg" alt="cs logo" width="70" height="70">
 </div>
-<div align="left">
-	&#8202;&#8202;&#8202;
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="50" height="50">
-</div>
-
 <br>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flmarsou&theme=react&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
