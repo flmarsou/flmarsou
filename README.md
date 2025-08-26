@@ -16,6 +16,8 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/github_desktop.svg" alt="github desktop logo" width="50" height="50">
 	&#8202;&#8202;&#8202;
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="50" height="50">
+	&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/clion.svg" alt="cmake logo" width="50" height="50">
 </div>
 <br>
 <div align="left">
