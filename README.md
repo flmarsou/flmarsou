@@ -8,20 +8,18 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 
 ## 🛠️ Tools
 <div align="left">
-	&#8202;&#8202;&#8202;
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/git.svg" alt="git logo" width="50" height="50">
-	&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/vscode.svg" alt="vscode logo" width="50" height="50">
-	&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;&#8202;
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/github_desktop.svg" alt="github desktop logo" width="50" height="50">
-	&#8202;&#8202;&#8202;
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="50" height="50">
-	&#8202;&#8202;&#8202;
+	&#8202;&#8202;&#8202;&#8202;
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/clion.svg" alt="cmake logo" width="50" height="50">
-</div>
-<br>
-<div align="left">
+	<br>
+	<br>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/git.svg" alt="git logo" width="50" height="50">
+	&#8202;&#8202;&#8202;&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/github_desktop.svg" alt="github desktop logo" width="50" height="50">
 	&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cmake.svg" alt="cmake logo" width="50" height="50">
+	<br>
+	<br>
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/opengl.svg" alt="opengl logo" height="50" style="vertical-align: middle;">
 </div>
 
@@ -52,7 +50,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell, made with [Andres](https://github.com/Manioker).
 - **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting game using the **MiniLibX**, made with [Rémy](https://github.com/remyd06).
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of **42 School**.
-- **[IRC](https://github.com/flmarsou/irc):** **I**nternet **R**elay **C**hat Server.
+- **[IRC](https://github.com/flmarsou/irc):** An **I**nternet **R**elay **C**hat server with basic commands.
 - **[Inception](https://github.com/flmarsou/inception):**
 
 ## 🌌 Personal Projects
