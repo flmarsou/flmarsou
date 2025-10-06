@@ -21,6 +21,8 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 	<br>
 	<br>
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/opengl.svg" alt="opengl logo" height="50" style="vertical-align: middle;">
+	&#8202;
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/docker.svg" alt="opengl logo" height="50" style="vertical-align: middle;">
 </div>
 
 ## 📜 Languages
