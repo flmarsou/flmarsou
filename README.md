@@ -52,7 +52,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[Minishell](https://github.com/flmarsou/minishell):** An utterly small shell, made with [Andres](https://github.com/Manioker).
 - **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting game using the **MiniLibX**, made with [Rémy](https://github.com/remyd06).
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of **42 School**.
-- **[IRC](https://github.com/flmarsou/irc):** An **I**nternet **R**elay **C**hat server with basic commands.
+- **[IRC](https://github.com/flmarsou/irc):** A C++ **I**nternet **R**elay **C**hat server with basic commands made with [Andres](https://github.com/Manioker).
 - **[Inception](https://github.com/flmarsou/inception):** A self-hosted website made with **MariaDB**, **WordPress**, and **NGINX**.
 - **[Transcendence](https://www.youtube.com/watch?v=dQw4w9WgXcQ):**
 
