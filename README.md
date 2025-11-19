@@ -54,7 +54,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules of **42 School**.
 - **[IRC](https://github.com/flmarsou/irc):** A C++ **I**nternet **R**elay **C**hat server with basic commands made with [Andres](https://github.com/Manioker).
 - **[Inception](https://github.com/flmarsou/inception):** A self-hosted website made with **MariaDB**, **WordPress**, and **NGINX**.
-- **[Transcendence](https://www.youtube.com/watch?v=dQw4w9WgXcQ):**
+- **[Transcendence](https://github.com/flmarsou/ft_transcendence):** A website from scratch to play Pong, made with [Bernardo](https://github.com/valedobrandi), [Jessica](https://github.com/gitjessi), and [Peiqi](https://github.com/pepsicola7).
 
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** A very simple local coop platformer game written in **GDScript** with **Godot Engine**.
