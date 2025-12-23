@@ -60,6 +60,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 
 - **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer using **OpenGL**, **GLAD**, and **GLFW**.
 - **[Abstract Data](https://github.com/flmarsou/abstract_data):** Reimplementation all C++ **containers** and **iterators**.
+- **[Libasm](https://github.com/flmarsou/libasm):** A little library to understand the basics of the **assembly language**.
 
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** Minimalist local co-op platformer developed in **Godot Engine**.
