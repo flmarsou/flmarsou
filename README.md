@@ -43,7 +43,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 
 ## 🔭 42 Projects
 - **[Libft](https://github.com/flmarsou/libft):** Custom C library of fundamental functions for later projects.
-- **[Printf](https://github.com/flmarsou/ft_printf):** Reimplementation of printf() with support for multiple format specifiers and edge-case handling.
+- **[ft_printf](https://github.com/flmarsou/ft_printf):** Reimplementation of printf() with support for multiple format specifiers and edge-case handling.
 - **[GNL](https://github.com/flmarsou/get_next_line):** Reads files line by line efficiently, handling multiple file descriptors.
 - **[Push Swap](https://github.com/flmarsou/push_swap):** Stack sorting algorithm optimized with minimal operations using radix and custom logic.
 - **[Minitalk](https://github.com/flmarsou/minitalk):** Interprocess communication using UNIX signals.
@@ -61,6 +61,9 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer using **OpenGL**, **GLAD**, and **GLFW**.
 - **[Abstract Data](https://github.com/flmarsou/abstract_data):** Reimplementation all C++ **containers** and **iterators**.
 - **[Libasm](https://github.com/flmarsou/libasm):** A little library to understand the basics of the **assembly language**.
+- **[ft_ping](https://github.com/flmarsou/ft_ping):**
+- **[ft_ls](https://github.com/flmarsou/ft_ls):**
+- **[ft_vox](https://github.com/flmarsou/ft_vox):**
 
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** Minimalist local co-op platformer developed in **Godot Engine**.
