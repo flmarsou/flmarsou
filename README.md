@@ -64,7 +64,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[ft_ping](https://github.com/flmarsou/ft_ping):**
 - **[ft_ls](https://github.com/flmarsou/ft_ls):**
 - **[ft_vox](https://github.com/flmarsou/ft_vox):**
-- **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**erel **F**rom **S**cratch writte in C++ with applications (*console, blackjack*).
+- **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**ernel **F**rom **S**cratch writte in C++ with applications (*console, blackjack*).
 
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** Minimalist local co-op platformer developed in **Godot Engine**.
