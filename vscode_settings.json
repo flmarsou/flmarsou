@@ -1,51 +1,54 @@
 {
 	// ====================================================================== //
-	//   Editor Settings                                                      //
+	//    Editor Settings                                                     //
 	// ====================================================================== //
 
 	"editor.fontFamily": "Iosevka, monospace",
 	"editor.fontSize": 16,
 	"editor.fontWeight": "bold",
+
 	"editor.renderWhitespace": "trailing",
 	"editor.insertSpaces": false,
 	"editor.tabSize": 4,
+
 	"editor.minimap.enabled": true,
 	"editor.showFoldingControls": "never",
-	"editor.wordWrap": "on",
 
 	// ====================================================================== //
-	//   Workbench Appearance                                                 //
-	// ====================================================================== //
-
-	"workbench.activityBar.location": "hidden",
-	"workbench.panel.defaultLocation": "right",
-	"workbench.colorTheme": "Monokai Pro",
-
-	// ====================================================================== //
-	//   Window & Title Bar                                                   //
-	// ====================================================================== //
-
-	"window.customTitleBarVisibility": "never",
-	"window.menuBarVisibility": "toggle",
-
-	// ====================================================================== //
-	//   Terminal Configuration                                               //
+	//    Terminal Configuration                                              //
 	// ====================================================================== //
 
 	"terminal.integrated.fontFamily": "Iosevka, monospace",
 	"terminal.integrated.fontSize": 16,
 	"terminal.integrated.fontWeight": "bold",
 
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.lineHeight": 1.2,
+
 	// ====================================================================== //
-	//   File Handling                                                        //
+	//    Workbench Appearance                                                //
+	// ====================================================================== //
+
+	"workbench.activityBar.location": "hidden",
+	"workbench.panel.defaultLocation": "left",
+	"workbench.editor.empty.hint": "hidden",
+
+	"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+	"workbench.iconTheme": "bearded-icons",
+
+	// ====================================================================== //
+	//    File Handling                                                       //
 	// ====================================================================== //
 
 	"files.autoSave": "onFocusChange",
+
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": true,
 
+	"files.eol": "\n",
+
 	// ====================================================================== //
-	//   Explorer                                                             //
+	//    Explorer                                                            //
 	// ====================================================================== //
 
 	"explorer.compactFolders": false,
@@ -54,23 +57,10 @@
 	"explorer.autoOpenDroppedFile": false,
 
 	// ====================================================================== //
-	//   Miscellaneous                                                        //
+	//    Miscellaneous                                                       //
 	// ====================================================================== //
 
 	"breadcrumbs.enabled": false,
-
-	"search.exclude": {
-		"**/.vscode":true,
-		"**/.git":true,
-		"obj":true,
-	},
-
-	"[csharp]": {
-	"editor.formatOnType": false,
-	"editor.formatOnSave": false,
-	"editor.codeLens": false,
-	}
-
-	"C_Cpp.suggestSnippets": false,
-	"editor.snippetSuggestions": "top"
+	"extensions.ignoreRecommendations": true,
+	"window.menuBarVisibility": "compact",
 }
