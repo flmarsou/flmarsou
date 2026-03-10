@@ -1,172 +1,220 @@
 {
 	// ====================================================================== //
-	//   Conditions                                                           //
+	//    If                                                                  //
 	// ====================================================================== //
-	"Custom if":
-	{
+
+	"if": {
 		"prefix": "if",
-		"body":
-		[
-			"if (${1:true})",
+		"body": [
+			"if (${1:condition})",
 			"{",
-			"\t",
+			"\t${2}",
 			"}"
 		]
 	},
 
-	"Custom else":
-	{
-		"prefix": "else",
-		"body":
-		[
+	"ifel": {
+		"prefix": "ifel",
+		"body": [
+			"if (${1:condition})",
+			"{",
+			"\t${2}",
+			"}",
 			"else",
 			"{",
-			"\t",
+			"\t${3}",
 			"}"
 		]
 	},
 
-	"Custom switch":
-	{
+	"ifelif": {
+		"prefix": "ifelif",
+		"body": [
+			"if (${1:condition})",
+			"{",
+			"\t${3}",
+			"}",
+			"else if (${2:condition})",
+			"{",
+			"\t${4}",
+			"}",
+			"else",
+			"{",
+			"\t${5}",
+			"}"
+		]
+	},
+
+	"else": {
+		"prefix": "else",
+		"body": [
+			"else",
+			"{",
+			"\t${1}",
+			"}"
+		]
+	},
+
+	"elif": {
+		"prefix": "elif",
+		"body": [
+			"else if (${1:condition})",
+			"{",
+			"\t${2}",
+			"}"
+		]
+	},
+
+	// ====================================================================== //
+	//    Switch Case                                                         //
+	// ====================================================================== //
+
+	"switch": {
 		"prefix": "switch",
-		"body":
-		[
+		"body": [
 			"switch (${1:condition})",
 			"{",
-			"\tdefault:",
-			"\t\tbreak ;",
+			"\t${2}",
+			"\tdefault: break;",
 			"}"
 		]
 	},
 
-	"Custom case":
-	{
+	"case": {
 		"prefix": "case",
-		"body":
-		[
+		"body": [
 			"case (${1:condition}):",
-			"\tbreak ;"
+			"{",
+			"\t${2}",
+			"\tbreak;",
+			"}"
 		]
 	},
 
 	// ====================================================================== //
-	//   Loops                                                                //
+	//    Do While Loop                                                       //
 	// ====================================================================== //
 
-	"Custom while":
-	{
+	"do": {
+		"prefix": "do",
+		"body": [
+			"do",
+			"{",
+			"\t${2}",
+			"} while (${1:condition})"
+		]
+	},
+
+	// ====================================================================== //
+	//    While Loop                                                          //
+	// ====================================================================== //
+
+	"while": {
 		"prefix": "while",
-		"body":
-		[
-			"while (${1:})",
+		"body": [
+			"while (${1:condition})",
 			"{",
-			"\t",
-			"}"
+			"\t${2}",
+			"} "
 		]
 	},
 
-	"Custom for":
-	{
+	// ====================================================================== //
+	//    For Loop                                                            //
+	// ====================================================================== //
+
+	"for": {
 		"prefix": "for",
-		"body":
-		[
-			"for (i32 ${1:i} = 0; ${1:i} < length; ${1:i}++)",
+		"body": [
+			"for (${1:init}; ${2:condition}; ${3:mod})",
 			"{",
-			"\t",
+			"\t${4}",
 			"}"
 		]
 	},
 
-	"Custom forr":
-	{
-		"prefix": "forr",
-		"body":
-		[
-			"for (i32 ${1:i} = length - 1; ${1:i} >= 0; ${1:i}--)",
+	"foreach": {
+		"prefix": "foreach",
+		"body": [
+			"for (auto &${1:item} : ${2:container})",
 			"{",
-			"\t",
+			"\t${3}",
 			"}"
 		]
 	},
 
 	// ====================================================================== //
-	//   Exceptions                                                           //
+	//    C++ Stuff                                                           //
 	// ====================================================================== //
 
-	"Custom try":
-	{
-		"prefix": "try",
-		"body":
-		[
-			"try",
-			"{",
-			"\t${1:}",
-			"}",
-			"catch (const std::exception &e)",
-			"{",
-			"\tstd::cerr << e.what() << std::endl;",
-			"}"
-		]
-	},
-
-	"Custom throw":
-	{
-		"prefix": "throw",
-		"body":
-		[
-			"throw std::runtime_error(\"${1:}\");"
-		]
-	},
-
-	// ====================================================================== //
-	//   Classes                                                              //
-	// ====================================================================== //
-
-	"Custom class":
-	{
+	"class": {
 		"prefix": "class",
-		"body":
-		[
-			"class\t${1:${TM_FILENAME_BASE}}",
+		"body": [
+			"class\t${1:Name}",
 			"{",
 			"\tpublic:",
-			"\t\t${1:${TM_FILENAME_BASE}}();",
-			"\t\t~${1:${TM_FILENAME_BASE}}();",
+			"",
+			"\t${2}",
 			"",
 			"\tprivate:",
 			"",
+			"\t${3}",
+			"};"
+		]
+	},
+
+	"struct": {
+		"prefix": "struct",
+		"body": [
+			"struct\t${1:Name}",
+			"{",
+			"\t${2}",
+			"};"
+		]
+	},
+
+	"ns": {
+		"prefix": "ns",
+		"body": [
+			"namespace\t${1:name}",
+			"{",
+			"\t${2}",
+			"}"
+		]
+	},
+
+	"enum": {
+		"prefix": "enum",
+		"body": [
+			"enum\t${1:Name}",
+			"{",
+			"\t${2}",
 			"};"
 		]
 	},
 
 	// ====================================================================== //
-	//   Shortcuts                                                            //
+	//    Miscellaneous                                                       //
 	// ====================================================================== //
 
-	"Custom cout":
-	{
+	"cout": {
 		"prefix": "cout",
-		"body":
-		[
-			"std::cout << ${1:} << std::endl;"
+		"body": [
+			"std::cout << \"${1}\\n\";"
 		]
 	},
 
-	"Custom cerr":
-	{
-		"prefix": "cerr",
-		"body":
-		[
-			"std::cerr << ${1:} << std::endl;"
+	"coutln": {
+		"prefix": "coutln",
+		"body": [
+			"std::cout << \"${1}\" << std::endl;"
 		]
 	},
 
-	"Custom string":
-	{
-		"prefix": "string",
-		"body":
-		[
-			"std::string"
+	"putain": {
+		"prefix": "putain",
+		"body": [
+			"std::cout << \"${1:var} = \" << ${1:var} << std::endl;"
 		]
 	},
 }
