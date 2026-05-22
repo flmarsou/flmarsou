@@ -42,33 +42,33 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 </div>
 
 ## 🔭 42 Projects
-- **[Libft](https://github.com/flmarsou/libft):** Custom **C library** of fundamental functions for later projects.
-- **[ft_printf](https://github.com/flmarsou/ft_printf):** Reimplementation of C function **printf()**.
-- **[GNL](https://github.com/flmarsou/get_next_line):** Reads files line by line, handling multiple file descriptors.
-- **[Push Swap](https://github.com/flmarsou/push_swap):** Stack sorting algorithm optimized with minimal operations using **radix** and custom logic.
-- **[Minitalk](https://github.com/flmarsou/minitalk):** Interprocess communication using **UNIX signals**.
-- **[So Long](https://github.com/flmarsou/so_long):** 2D grid-based game with **MiniLibX**.
-- **[Philosophers](https://github.com/flmarsou/philosophers):** Dining philosophers simulation using **threads** and **mutexes**.
-- **[Minishell](https://github.com/flmarsou/minishell):** Lightweight shell implementing command parsing, redirection, and environment variable management *(made with [Andres](https://github.com/Manioker))*.
-- **[Cub3D](https://github.com/flmarsou/cub3d):** Ray-casting 3D engine using **MiniLibX**, featuring basic textures and collision detection *(made with [Rémy](https://github.com/remyd06))*.
-- **[CPP Modules](https://github.com/flmarsou/cpp_modules):** CPP Modules to learn the fundamentals.
-- **[IRC](https://github.com/flmarsou/irc):** Basic **I**nternet **R**elay **C**hat server supporting multiple clients and simple commands *(made with [Andres](https://github.com/Manioker))*.
+- **[Libft](https://github.com/flmarsou/libft):** Custom **C library** of standard functions, reused across future projects.
+- **[ft_printf](https://github.com/flmarsou/ft_printf):** Reimplementation of the C function **printf()**.
+- **[GNL](https://github.com/flmarsou/get_next_line):** Reads any file line by line, supporting multiple file descriptors simultaneously.
+- **[Push Swap](https://github.com/flmarsou/push_swap):** Sorts a stack of integers using the fewest possible operations.
+- **[Minitalk](https://github.com/flmarsou/minitalk):** Inter-process communication through **UNIX signals**.
+- **[So Long](https://github.com/flmarsou/so_long):** 2D grid-based game built with **MiniLibX**.
+- **[Philosophers](https://github.com/flmarsou/philosophers):** Dining philosophers problem solved with **threads** and **mutexes**.
+- **[Minishell](https://github.com/flmarsou/minishell):** Lightweight shell with command parsing, pipes, redirections, and environment variables *(made with [Andres](https://github.com/Manioker))*.
+- **[Cub3D](https://github.com/flmarsou/cub3d):** Raycasting 3D engine with textures and collision detection, built with **MiniLibX** *(made with [Rémy](https://github.com/remyd06))*.
+- **[CPP Modules](https://github.com/flmarsou/cpp_modules):** Series of exercises covering core C++ concepts.
+- **[IRC](https://github.com/flmarsou/irc):** **I**nternet **R**elay **C**hat server handling multiple clients and standard commands *(made with [Andres](https://github.com/Manioker))*.
 - **[Inception](https://github.com/flmarsou/inception):** Web stack combining **MariaDB**, **WordPress**, and **NGINX**.
-- **[Transcendence](https://github.com/flmarsou/ft_transcendence):** Full-stack Pong game website built from scratch with real-time gameplay *(made with [Bernardo](https://github.com/valedobrandi), [Jessica](https://github.com/gitjessi), [Peiqi](https://github.com/pepsicola7))*.
+- **[Transcendence](https://github.com/flmarsou/ft_transcendence):** Full-stack Pong game with real-time multiplayer *(made with [Bernardo](https://github.com/valedobrandi), [Jessica](https://github.com/gitjessi), [Peiqi](https://github.com/pepsicola7))*.
 
 <br>
 
-- **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer using **OpenGL**, **GLAD**, and **GLFW**.
-- **[Abstract Data](https://github.com/flmarsou/abstract_data):** Reimplementation of C++ **containers** and **iterators**.
-- **[Libasm](https://github.com/flmarsou/libasm):** A little library to understand the basics of the **assembly language**.
-- **[ft_ping](https://github.com/flmarsou/ft_ping):** Reimplementation of shell command **ping**.
-- **[ft_ls](https://github.com/flmarsou/ft_ls):** Reimplementation of shell command **ls**.
+- **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer built with **OpenGL**.
+- **[Abstract Data](https://github.com/flmarsou/abstract_data):** Reimplementation of C++ **STL containers** and **iterators**.
+- **[Libasm](https://github.com/flmarsou/libasm):** Standard C functions rewritten in **x86-64 Assembly**.
+- **[ft_ping](https://github.com/flmarsou/ft_ping):** Reimplementation of the **ping** command.
+- **[ft_ls](https://github.com/flmarsou/ft_ls):** Reimplementation of the **ls** command.
 - **[ft_vox](https://github.com/flmarsou/ft_vox):**
-- **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**ernel **F**rom **S**cratch written in C++ with applications (*console, blackjack*).
-- **[malloc](https://github.com/flmarsou/malloc):** Reimplementation of C funcntion **malloc()**, **realloc()**, **free()**.
+- **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**ernel **F**rom **S**cratch written in C++ with a terminal and a Blackjack game *(made with [Yessine](https://github.com/nyas06))*.
+- **[malloc](https://github.com/flmarsou/malloc):** Reimplementation of the C functions **malloc()**, **realloc()**, **free()**.
 
 ## 🌌 Personal Projects
-- **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** Minimalist local co-op platformer developed with **Godot Engine** *(made with a few people)*.
-- **[OpenGL Sandbox](https://github.com/flmarsou/OpenGL_Sandbox):** Interactive falling-sand simulation game.
-- **[Silk Roguelike](https://github.com/flmarsou/Silk_Roguelike):** 2D grid-based and turn-based roguelike built with **Silk.NET**, featuring procedural maze generation.
-- **[OpenGL Voxel](https://github.com/flmarsou/OpenGL_Voxel):** 3D voxel game highlighting world generation and rendering optimizations *(made with [Romain](https://github.com/Romtry))*.
+- **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** Local co-op platformer made in 48 hours with **Godot Engine** *(made with a few people)*.
+- **[OpenGL Sandbox](https://github.com/flmarsou/OpenGL_Sandbox):** Falling-sand simulation built with **OpenGL**.
+- **[Silk Roguelike](https://github.com/flmarsou/Silk_Roguelike):** Turn-based roguelike with procedural maze generation built with **Silk.NET**.
+- **[OpenGL Voxel](https://github.com/flmarsou/OpenGL_Voxel):** Voxel engine focused on world generation and rendering optimizations *(made with [Romain](https://github.com/Romtry))*.
