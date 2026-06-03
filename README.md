@@ -64,7 +64,8 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[ft_ping](https://github.com/flmarsou/ft_ping):** Reimplementation of the **ping** command.
 - **[ft_ls](https://github.com/flmarsou/ft_ls):** Reimplementation of the **ls** command.
 - **[ft_vox](https://github.com/flmarsou/ft_vox):**
-- **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**ernel **F**rom **S**cratch written in C++ with a terminal and a Blackjack game *(made with [Yessine](https://github.com/nyas06))*.
+- **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**ernel **F**rom **S**cratch written in C++ with a Terminal and a Blackjack game *(made with [Yessine](https://github.com/nyas06))*.
+- **[kfs-2](https://github.com/flmarsou/kfs-2):** **K**ernel **F**rom **S**cratch with a minimalist Shell *(made with [Yessine](https://github.com/nyas06))*.
 - **[malloc](https://github.com/flmarsou/malloc):** Reimplementation of the C functions **malloc()**, **realloc()**, **free()**.
 
 ## 🌌 Personal Projects
