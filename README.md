@@ -42,6 +42,8 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 </div>
 
 ## 🔭 42 Projects
+
+### Common Core
 - **[Libft](https://github.com/flmarsou/libft):** Custom **C library** of standard functions, reused across future projects.
 - **[ft_printf](https://github.com/flmarsou/ft_printf):** Reimplementation of the C function **printf()**.
 - **[GNL](https://github.com/flmarsou/get_next_line):** Reads any file line by line, supporting multiple file descriptors simultaneously.
@@ -56,17 +58,20 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[Inception](https://github.com/flmarsou/inception):** Web stack combining **MariaDB**, **WordPress**, and **NGINX**.
 - **[Transcendence](https://github.com/flmarsou/ft_transcendence):** Full-stack Pong game with real-time multiplayer *(made with [Bernardo](https://github.com/valedobrandi), [Jessica](https://github.com/gitjessi), [Peiqi](https://github.com/pepsicola7))*.
 
-<br>
-
-- **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer built with **OpenGL**.
-- **[Abstract Data](https://github.com/flmarsou/abstract_data):** Reimplementation of C++ **STL containers** and **iterators**.
-- **[Libasm](https://github.com/flmarsou/libasm):** Standard C functions rewritten in **x86-64 Assembly**.
-- **[ft_ping](https://github.com/flmarsou/ft_ping):** Reimplementation of the **ping** command.
+### System & Kernel
 - **[ft_ls](https://github.com/flmarsou/ft_ls):** Reimplementation of the **ls** command.
-- **[ft_vox](https://github.com/flmarsou/ft_vox):**
+- **[ft_ping](https://github.com/flmarsou/ft_ping):** Reimplementation of the **ping** command.
+- **[Libasm](https://github.com/flmarsou/libasm):** Standard C functions rewritten in **x86-64 Assembly**.
 - **[kfs-1](https://github.com/flmarsou/kfs-1):** **K**ernel **F**rom **S**cratch written in C++ with a Terminal and a Blackjack game *(made with [Yessine](https://github.com/nyas06))*.
 - **[kfs-2](https://github.com/flmarsou/kfs-2):** **K**ernel **F**rom **S**cratch with a minimalist Shell *(made with [Yessine](https://github.com/nyas06))*.
 - **[malloc](https://github.com/flmarsou/malloc):** Reimplementation of the C functions **malloc()**, **realloc()**, **free()**.
+
+### Graphics & Gaming
+- **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer built with **OpenGL**.
+- **[ft_vox](https://github.com/flmarsou/ft_vox):**
+
+### Others
+- **[Abstract Data](https://github.com/flmarsou/abstract_data):** Reimplementation of C++ **STL containers** and **iterators**.
 
 ## 🌌 Personal Projects
 - **[Game Jam GCC-0](https://github.com/flmarsou/Game_Jam_GCC-0):** Local co-op platformer made in 48 hours with **Godot Engine** *(made with a few people)*.
