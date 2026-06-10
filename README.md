@@ -67,7 +67,7 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[malloc](https://github.com/flmarsou/malloc):** Reimplementation of the C functions **malloc()**, **realloc()**, **free()**.
 
 ### Graphics & Gaming
-- **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer built with **OpenGL**.
+- **[Scop](https://github.com/flmarsou/scop):** 3D object loader and renderer written in **C#** and built with **Silk.NET**.
 - **[ft_vox](https://github.com/flmarsou/ft_vox):**
 
 ### Others
