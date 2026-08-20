@@ -78,3 +78,4 @@ If you find something useful, don’t hesitate to ⭐ my **[repositories](https:
 - **[OpenGL Sandbox](https://github.com/flmarsou/OpenGL_Sandbox):** Falling-sand simulation built with **OpenGL**.
 - **[Silk Roguelike](https://github.com/flmarsou/Silk_Roguelike):** Turn-based roguelike with procedural maze generation built with **Silk.NET**.
 - **[OpenGL Voxel](https://github.com/flmarsou/OpenGL_Voxel):** Voxel engine focused on world generation and rendering optimizations *(made with [Romain](https://github.com/Romtry))*.
+- **[Where am I?!](https://github.com/flmarsou/noita_where_am_i):** A mod for **Noita** to display in-game coordinates
